@@ -2,7 +2,6 @@ from aiogram.types import Message
 from core.keyboards.inline import get_buttons, get_map
 from core.utils.states import Steps
 from aiogram.fsm.context import FSMContext
-# import requests
 import json
 # import datetime
 
